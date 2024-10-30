@@ -1,0 +1,7 @@
+{
+  "name": "cobalogin2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
